@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../controller"
+		},
+		{
+			"path": "../effect"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../icon"
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../main"
+		},
+		{
+			"path": "../menu"
+		},
+		{
+			"path": "../model"
+		},
+		{
+			"path": "../scroll"
+		},
+		{
+			"path": "../Table"
+		},
+		{
+			"path": "../view"
+		}
+	]
+}
